@@ -14,7 +14,9 @@ App desenvolvido em SwiftUI, explorando o detecção de gestos, uso de audio com
 
 ## Uso
 Clone o repositório : git clone https://github.com/mayanacordeiro/txaimagochi.git
+
 Abra o projeto no Xcode
+
 Faça o build em um aparelho iPhone
 
 ## Inspiração
